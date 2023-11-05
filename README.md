@@ -9,3 +9,10 @@
 
 ![image](https://github.com/Eason0227/python-crawler/assets/102510341/ff2605b9-1abc-4cb5-ad73-722c14d24a58)
 
+### reference
+Beautiful Soup for Live Prices Using Python  
+https://squatsstreak.medium.com/scraping-with-python-and-beautiful-soup-for-live-prices-2df75968ccd0  
+[Python爬蟲教學]輕鬆學會Python網頁爬蟲與MySQL資料庫的整合方式  
+https://www.learncodewithmike.com/2020/08/python-scraper-integrate-with-mysql.html  
+Python 氣象資料爬蟲與MySQL資料庫實作  
+https://www.youtube.com/watch?v=yWqJHDpbkPU  
